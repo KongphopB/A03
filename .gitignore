@@ -1,0 +1,23 @@
+# MATLAB temporary/cache files
+*.asv
+*.m~
+*.autosave
+*.slxc
+slprj/
+codegen/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs and temporary output
+*.log
+*.tmp
+*.temp

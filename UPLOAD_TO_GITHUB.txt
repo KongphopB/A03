@@ -1,0 +1,19 @@
+EASIEST WAY TO UPLOAD THIS FOLDER TO GITHUB
+
+1. Create a new empty repository on GitHub (for example: lab1).
+2. Unzip this package on your computer.
+3. Open PowerShell/Terminal inside the lab1_github_ready folder.
+4. Run these commands:
+
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git branch -M main
+   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   git push -u origin main
+
+Replace YOUR_USERNAME and YOUR_REPOSITORY with your GitHub username and repository name.
+
+If Git asks you to sign in, complete the GitHub sign-in shown on screen.
+
+If you only want selected people to access the files, create the repository as PRIVATE and add them under repository Settings > Collaborators.

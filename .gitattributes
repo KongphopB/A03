@@ -1,0 +1,4 @@
+# Treat experiment data/assets as binary files
+*.mat binary
+*.xlsx binary
+*.png binary
